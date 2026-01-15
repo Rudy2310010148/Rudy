@@ -5,7 +5,7 @@
 <h2 align="center">🛰️ Network Dev • 🧠 Code Hacker • 🛠️ Cyberpunk Engineer</h2>
 
 <p align="center">
-  <img src="assets/avatar.png" width="230" style="border-radius:50%" />
+  <img src="avatar.png" width="230" style="border-radius:50%" />
 </p>
 
 ---
